@@ -1,0 +1,15 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "A weather app that is part of the FreeCodeCamp course requirements.",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "weather",
+    "app"
+  ],
+  "author": "Fitzroy Woodruff",
+  "license": "ISC"
+}
