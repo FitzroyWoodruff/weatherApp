@@ -10,12 +10,21 @@
 </head>
 <body>
 
-<div id="weather">
-  <h2>FCC: Weather App</h2>
-  <div><span id="city">Area</span></div>
-  <div><span id="skys">skys</span></div>
-  <div><span id="ctemp">0</span><span>&#8451;</span> </div>
-  <div><span id="ftemp">0</span><span>&#8457;</span></div>
+<div id="weather" class="container">
+  <div class="gridItem"><h2>Local Weather App</h2></div>
+  <div class="gridItem">
+    <!--the celsius -->
+    <div style="display: none" class="temps"><span id="ctemp">00</span></div>
+    <!--the fahrenheit -->
+    <div class="temps"><span id="ftemp">00</span></div>
+    <button class="btn" id="tempToggle">Fahrenheit / celsius</button>
+  </div>
+
+
+  <div class="gridItem"><span id="area">Area</span></div>
+  <div class="gridItem"><span id="skys">Atmosphere</span></div>
+
+
 </div>
 
 
