@@ -5,42 +5,43 @@ Author Name: Fitzroy Woodruff
 Site: http://kleeshay.com
 Description: the stylesheet for my weather app
 */
-:root, html {
-  padding: 0;
-  margin: 0;
-  height: 100%;
+:root,
+html {
+	padding: 0;
+	margin: 0;
+	height: 100%;
 }
-.hot{
-  background-image: url("/img/hot.jpeg");
-  background-size: cover;
-  background-repeat:no-repeat;
-  background-position: center;
+.hot {
+	background-image: url("../img/hot.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
 }
 
-.cold{
-  background-image: url("/img/cold.jpeg");
-  background-size: cover;
-  background-repeat:no-repeat;
-  background-position: center;
+.cold {
+	background-image: url("../img/cold.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
 }
-.nice{
-  background-image: url("/img/nice.jpeg");
-  background-size: cover;
-  background-repeat:no-repeat;
-  background-position: center;
+.nice {
+	background-image: url("../img/nice.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
 }
-.beach{
-  background-image: url("/img/beach.jpeg");
-  background-size: cover;
-  background-repeat:no-repeat;
-  background-position: center;
+.beach {
+	background-image: url("../img/beach.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
 }
-.rain{
-  background-image: url("/img/rain.jpeg");
-  background-size: cover;
-  background-repeat:no-repeat;
-  background-position: center;
+.rain {
+	background-image: url("../img/rain.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
 }
-.gridItem{
-  justify-content: center;
+.gridItem {
+	justify-content: center;
 }
