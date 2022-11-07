@@ -12,32 +12,32 @@ html {
 	height: 100%;
 }
 .hot {
-	background-image: url("../img/hot.jpeg");
+	background-image: url("https://fitzroywoodruff.github.io/weatherApp/img/hot.jpeg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 .cold {
-	background-image: url("../img/cold.jpeg");
+	background-image: url("https://fitzroywoodruff.github.io/weatherApp/img/cold.jpeg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 .nice {
-	background-image: url("../img/nice.jpeg");
+	background-image: url("https://fitzroywoodruff.github.io/weatherApp/img/nice.jpeg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 .beach {
-	background-image: url("../img/beach.jpeg");
+	background-image: url("https://fitzroywoodruff.github.io/weatherApp/img/beach.jpeg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 .rain {
-	background-image: url("../img/rain.jpeg");
+	background-image: url("https://fitzroywoodruff.github.io/weatherApp/img/rain.jpeg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
